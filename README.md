@@ -2,14 +2,17 @@
 
 A food delivery application made using React and Swiggy's API.
 
-This project was built as a part of the course Namaste React by Akshay Saini.
+This project is not fully completed.
+Future Works:-
+    Authentication
+    Payment Gateway
+    Better UIs etc.
 
 ## Tech Stack
 
 - React
 - Parcel
 - Tailwind CSS
-- Jest(Testing)
 - Redux-toolkit
 
 ## Features
@@ -24,7 +27,7 @@ This project was built as a part of the course Namaste React by Akshay Saini.
 1. Clone the repo
 
 ```bash
-git clone https://github.com/DineshRout779/FoodHunt
+git clone https://github.com/kishanks412/Food-Villa
 ```
 
 2. Install dependencies
